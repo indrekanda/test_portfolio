@@ -7,7 +7,7 @@
 
 ## Work experience
 - Principal analyst @ xxx
-- CRM analyst @ SEB xxx
+- CRM analyst @ xxx
 - Data Scientists @ xxx
 
 ## Stack:
