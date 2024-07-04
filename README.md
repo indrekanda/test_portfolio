@@ -6,9 +6,9 @@
 - Bachelor of Marketing
 
 ## Work experience
-- Principal analyst @ Ekonomines konsultacijos ir tyrimai
-- CRM analyst @ SEB bankas
-- Data Scientists @ LTG Group
+- Principal analyst @ xxx
+- CRM analyst @ SEB xxx
+- Data Scientists @ xxx
 
 ## Stack:
 - Python
