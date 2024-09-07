@@ -19,3 +19,4 @@
 - Project1: Causal discovery
 - Project2: Fitness tracker
 - Project3: Podcast summarizer
+- Project4: [Sudoku solver](https://github.com/indrekanda/2024_sudoku_solver)
